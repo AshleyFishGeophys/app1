@@ -1,0 +1,3 @@
+mood from 1-10: 5
+
+Company is probably going to close, but I am learning new Python skills which is fun!
